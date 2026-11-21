@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "60e1a36352bf339b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3475813aacd30206",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18ea586d03e05577",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b1df780d71d8107",
+    "type": "split",
+    "children": [
+      {
+        "id": "6be5277b2813a6f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04fa365c0479c24d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d20453f45b78c0ec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "852b088b6df6732a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1f6c6d311370c52d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8038ef7627c3786e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "685c5105948f9ad8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "2fb4f1b68127b336",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "ba7aeb694467bac0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "dec200c851f8a3a3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "17f7bed5820aade6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "18ea586d03e05577",
+  "lastOpenFiles": [
+    "姚荷生_伤寒论有关疾病分类学纲目.md",
+    "姚荷生_中医内科学评讲.md",
+    "Pasted image 20261120173342.png",
+    "Pasted image 20261117111631.png",
+    "Pasted image 20261117115147.png",
+    "Pasted image 20261119144424.png",
+    "Pasted image 20261119144724.png",
+    "Pasted image 20261117171543.png",
+    "Pasted image 20261119144437.png",
+    "Pasted image 20261118110919.png",
+    "Pasted image 20261117114708.png",
+    "六经的实质界定.md",
+    "赵开美本伤寒论_条文.md",
+    "袁淑芳墓碑百方.md",
+    "assets/六经的实质界定/fig06_上下标本中气图.png",
+    "assets/六经的实质界定",
+    "assets/袁淑芳墓碑百方",
+    "姚荷生医案摘录_1953病历扫描.md",
+    "姚荷生_色脉讲义.md",
+    "姚梅龄_根治哮喘的几个问题等讲稿.md",
+    "姚荷生_厥阴经讲义摘录.md",
+    "姚荷生_證候簡釋.md",
+    "伤寒论难解篇章_厥阴篇.md",
+    "assets/姚荷生_厥阴经讲义摘录",
+    "姚荷生诊治小儿夏季热的特色.md",
+    "姚荷生从三焦论水饮.md",
+    "姚荷生活用防己茯苓汤的案例分析.md",
+    "姚荷生运用茵陈蒿汤加味治疗73例病人规律分析.md",
+    "姚荷生活用白头翁汤案例总结.md",
+    "姚荷生脏腑辨证论要_三.md",
+    "姚荷生脏腑辨证论要_二.md",
+    "assets/姚荷生诊治小儿夏季热的特色",
+    "assets/伤寒论难解篇章_厥阴篇",
+    "assets/姚荷生从三焦论水饮",
+    "assets/姚荷生运用茵陈蒿汤加味治疗73例病人规律分析",
+    "assets/姚荷生活用防己茯苓汤的案例分析",
+    "assets/姚荷生活用白头翁汤案例总结",
+    "assets/姚荷生脏腑辨证论要_三",
+    "姚荷生脏腑辨证论要_一.md",
+    "三焦辨证_焦膜病辨治.md",
+    "raw/notes/娄绍昆讲康治本伤寒论_全文_副本.md",
+    "raw/notes/娄绍昆讲康治本伤寒论_全文_OCR原稿.md",
+    "raw/notes/娄绍昆讲康治本伤寒论_全文.md",
+    "raw/notes/中医临证处方入门_全文.md",
+    "raw/notes/中医临证处方入门_全文_OCR原稿.md",
+    "raw/notes/中医临证处方入门_OCR/AI修复_分章/第十四章_主要疾病治疗详解.md"
+  ]
+}
